@@ -1,2 +1,2 @@
-# java-practice
+# study-java
 ☕️ Study Java
