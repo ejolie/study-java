@@ -3,6 +3,7 @@ package com.example.demospringdi;
 // 프록시
 public class BookServiceProxy implements BookService {
 
+    // 리얼 서브젝트
     BookService bookService;
 
     public BookServiceProxy(BookService bookService) {
